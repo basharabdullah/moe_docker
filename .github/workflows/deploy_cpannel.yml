@@ -19,4 +19,4 @@ jobs:
           server: ftp.dot-zerone.com
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASS }}
-          server-dir: /day7/bashar
+          server-dir: /day7/bashar/
